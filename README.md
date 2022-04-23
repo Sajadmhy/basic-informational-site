@@ -8,4 +8,4 @@
   <li>404</li>
 </ul>
 
-<p>Created with NodeJS and HTML</p>
+<p><strong>Created with NodeJS and HTML</strong></p>
