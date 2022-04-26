@@ -1,0 +1,22 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "<h2>This is a basic site with 4 different pages:</h2> <ul>   <li>home</li>   <li>about</li>   <li>contact-me</li>   <li>404</li> </ul>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sajadmhy/basic-informational-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sajadmhy/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/Sajadmhy/basic-informational-site#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
